@@ -1,0 +1,136 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    /*background-color:cadetCyan;*/
+}
+main {
+    Width: 76%;
+    margin: 20px auto;
+    border: 5px solid Black;
+    display: grid;
+    color: darkCyan;
+    grid-template-rows: repeat(8, 30px) ; /*//need to define number of rows needed on template, these explicit grid and rest is implicit//*/
+    grid-template-columns: 75px 350px 250px repeat(5, 150px); /*grid coloumn defenintion and design*/
+    grid-gap: 1px;
+}
+.div1 {
+   background-color: lightgray;
+  
+}
+.div2 {
+    background-color: lightgray;
+}
+.div3 {
+    background-color: lightgray;
+}
+.div4 {
+    background-color: lightgray;
+}
+.div5 {
+    background-color: lightgray;
+}
+.div6 {
+    background-color: lightgray;
+}
+.div7 {
+    background-color: lightgray;
+}
+.div8 {
+    background-color: lightgray;
+}
+.div9 {
+    background-color: Cyan;
+}
+
+.div10 {
+    background-color: Cyan;
+}
+
+.div11 {
+    background-color: Cyan;
+}
+
+.div12 {
+    background-color: Cyan;
+}
+
+.div13 {
+    background-color: Cyan;
+}
+
+.div14 {
+    background-color: Cyan;
+}
+
+.div15 {
+    background-color: Cyan;
+}
+
+.div16 {
+    background-color: Cyan;
+}
+.div17 {
+    background-color: Cyan;
+}
+
+.div18 {
+    background-color: Cyan;
+}
+
+.div19 {
+    background-color: Cyan;
+}
+
+.div20 {
+    background-color: Cyan;
+}
+
+.div21 {
+    background-color: Cyan;
+}
+
+.div22 {
+    background-color: Cyan;
+}
+
+.div23 {
+    background-color: Cyan;
+}
+
+.div24 {
+    background-color: Cyan;
+}
+
+.div25 {
+    background-color: Cyan;
+}
+
+.div26 {
+    background-color: Cyan;
+}
+
+.div27 {
+    background-color: Cyan;
+}
+
+.div28 {
+    background-color: Cyan;
+}
+
+.div29 {
+    background-color: Cyan;
+}
+
+.div30 {
+    background-color: Cyan;
+}
+
+.div31 {
+    background-color: Cyan;
+}
+
+.div32 {
+    background-color: Cyan;
+}
+
